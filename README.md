@@ -1,13 +1,24 @@
 # Dota2_Web_Scrapper
 This Web Scrapper gets the following data for each Dota 2 Hero: 
-hero = {
+
+
+hero = 
+{
+
     "Hero_Name": {
+    
         "name": "hero_name", 
+        
         "attribute": "ex: Strength", 
+        
         "Attack Type": "ex: Melee", 
+        
         "Lore": "Lore", #DONE
-        "abilities": [{"First": "abil1"}, {"Second": "abil2"}, {"Third": "abil3"}, {"Fourth": "abil4"}], 
+        
+        "abilities": [{"First": "abil1"}, {"Second": "abil2"}, {"Third": "abil3"}, {"Fourth": "abil4"}],
+        
         "lvl": [{"1": ["opt1", "opt2"]}, {"10": ["opt1", "opt2"]}, {"20": ["opt1", "opt2"]}], 
+        
         "stats": {
             "strenght": "123",
             "agility": "123",
@@ -23,6 +34,4 @@ hero = {
     }
 };
 
-It also obtain the iamges of the hero Icon: 
-
-Along with Each Ability icon. 
+It also obtain the images of the hero Icon, along with Each Ability icon. 
