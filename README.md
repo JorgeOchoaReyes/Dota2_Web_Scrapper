@@ -34,4 +34,4 @@ hero =
     }
 };
 
-It also obtain the images of the hero Icon, along with Each Ability icon. 
+It also obtains the images of the hero Icon, along with Each Ability icon. 
