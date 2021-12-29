@@ -9,11 +9,9 @@ hero =
     
         "name": "hero_name", 
         
-        "attribute": "ex: Strength", 
+        "roles": ["Allegiance", "main_attribute", "Attack_type" ],
         
-        "Attack Type": "ex: Melee", 
-        
-        "Lore": "Lore", #DONE
+        "Lore": "Lore",
         
         "abilities": [{"First": "abil1"}, {"Second": "abil2"}, {"Third": "abil3"}, {"Fourth": "abil4"}],
         
